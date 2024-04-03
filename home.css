@@ -281,7 +281,7 @@ body {
     transform: scale(1.1);
 }
 
-#section6 .project .project2 {
+/* #section6 .project .project2 {
     width: 90%;
     margin: auto;
     padding: 2rem;
@@ -310,7 +310,7 @@ body {
 
 #section6 .project .project2 img:hover {
     transform: scale(1.1);
-}
+} */
 
 #section7 {
     background: linear-gradient(to bottom, rgb(68, 68, 68), rgb(255, 255, 255));
